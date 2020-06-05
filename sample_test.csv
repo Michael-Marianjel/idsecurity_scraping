@@ -1,0 +1,78 @@
+descriptions,retail price,sales price,category,product type,item #,Manufacture Name,Sku,variants,image_path
+" Zebra ZC100 Single-Sided Photo ID System Description ADVANCED SECURITY
+Printer and host authentication Advanced security features enable printer-to-host authentication to prevent printing from unauthorized applications or devices.
+AES data encryption Government-grade encryption protects the most sensitive data during printing, such as account numbers.
+FAST AND FLEXIBLE PRINTING
+Fast single-sided color and monochrome printing We took a good thing and made it better. The ZC100 prints up to 30% faster in monochrome and 15% faster in color than its predecessor, Zebra?€?s ZXP Series 1 card printers.
+Basic encoding options Whether you are printing employee badges, ID cards, season passes and membership cards or credit and debit cards, you can choose the encoding option of your choice. Add a ?€?swipe-andgo?€? magnetic stripe when you print cards. Or use the ZIP Pocket with our new Software Development Kits (SDKs) to easily add a third party contactless encoder to create ?€?pass through?€? contactless cards. BOOST VALUE WITH NEW CAPABILITIES AND THE RIGHT SUPPORT
+Get unmatched value with Print DNA ?€? only from Zebra The printer hardware is just the start of what you need to maximize the value of your printers. That?€?s why we created Print DNA ?€? because what?€?s inside your printer matters. The Print DNA family of solutions brings unmatched ease of use, ease of integration and security to card printing, streamlining your business processes, improving operational efficiency and reducing development and deployment time and cost.
+Protect your investment with Zebra?€?s superior support services No matter what level of support you need, there is a Zebra support service that is just right for your business. With Zebra OneCare, no matter what happens to your printer, it?€?s covered. If you just need access to technical support, choose Zebra?€?s Technical Software and Support (TSS). And if you want help setting up and configuring the hundreds of settings on local and remote ZC100 printers, our Install & Configuration Assistance (ICA) Select program provides the support you need. Zebra ZC100 Single-Sided Photo ID System Specifications STANDARD FEATURES 300 dpi (11.8 dots/mm) print resolution
+2 GB flash memory
+Image size: 1006 x 640 pixels
+Auto calibration of ribbon
+USB 2.0 connectivity
+100 card capacity auto-adjusting input hopper (30 mil)
+100 card capacity output hopper (30 mil)
+Manual card feeding capability with LED bezel
+3 Tricolor printer status indicator lights
+Kensington?? secure lock slot
+Printer host authentication and data encryption
+Print Touch NFC tag and Quick Help QR code for online printer help and documentation access
+Two-year unlimited warranty on printer and printheadPRINTING SPECIFICATIONS Dye-sublimation thermal transfer direct to card print method
+Full-color or monochrome printing
+Single-sided printing
+Edge-to-edge printing on standard CR-80 media Printing throughput (cards per hour) based on batch printing with USB??connectivity. Times may vary depending on the computer configuration. Single-Sided YMCKO: 150 cph
+Monochrome: 700 cphMEDIA SPECIFICATIONS
+Supplies Specifications: NOTE: The ZC100 printer is designed to work only with Zebra??genuine ribbons. Ribbons are included in a simple-to-load cartridge. YMCKO* - 200
+?? YMCKO* - 400
+Black Monochrome* - 2000
+Black Monochrome - 1500
+White Monochrome*??-??1500
+Red Monochrome??-??1500
+Blue Monochrome??-??1500
+Gold Monochrome - 1500
+Silver Monochrome - 1500 Ribbon availability may vary by region. *Zebra intelligent technology automatically detects and authenticates ribbon
+Cleaning roller is included with each ribbon
+Two available cleaning kit options: your choice of two (2) or five (5) isopropyl alcohol cleaning cards (1,000 images/card)Card Compatibility: NOTE: For optimum print quality and printer performance, use of Genuine Zebra supplies is recommended. Card Thickness: 10-40 mil
+Card Size: CR80 ISO 7810 ID-1 format, CR79
+Card Material: PVC and PVC composite
+Adhesive back and writable back cards
+Spot color or monochrome printing only on < 20 mil thick cards and CR79 cardsOPERATING CHARACTERISTICS Environmental Operating Temperature: 59?? F to 95?? F/15?? C to 35?? C
+Storage Temperature: 23?? F to 158?? F/-5?? C to 70?? C
+Operating Humidity: 20% to 80% non-condensing
+Storage Humidity: 20% to 90% non-condensing
+Media Storage: Temperature: 41?? F to 77?? F/5?? C to 25?? C
+Humidity: 35% to 65% non-condensing Electrical Auto-switching single-phase AC power
+Operating range: 90-132VAC and 190-264VAC RMS
+Frequency range: 47-63 Hz
+FCC Class A
+PHYSICAL CHARACTERISTICS Dimensions 10.2 in. H x 6.2 in. W x 15.1 in. D
+258 mm H x 157 mm W x 383 mm DWeight 8.6 lbs (3.9 kg)COMMUNICATIONS AND INTERFACE CAPABILITIES USB 2.0 ?€? Standard
+Built-in 10/100 Ethernet ?€? Optional
+802.11ac with MFi ?€? OptionalENCODING OPTIONS AND SPECIFICATIONS Magnetic stripe encoder ?€? ISO 7811 (new and pre-encoded; tracks 1,
+2, and 3; high and low coercivity; stripe down; 30 mil cards only) *
+Third party contactless encoder integration kit**Field upgradeable options
+PRINTER DRIVERS Windows Server?? 2003 (32 bit)
+Windows Server 2008 (32 and 64 bit),
+Windows 7 (32 bit and 64 bit)
+Windows 8 and Win 8 Pro (32 bit and 64 bit
+compatible)
+Windows Server 2012 (64 bit)
+Windows 10 (32 bit and 64 bit) Windows drivers include: Color coded printer status indicators for
+the operator
+Black panel extraction and controls for
+specialty ribbon panels with image preview
+Configuration utility to limit access by
+operators to change image quality and
+printer settings
+Advanced printer configuration, security
+settings and diagnostics capabilities Linux Ubuntu
+Apple iOS 10.2ADDITIONAL OPTIONAL FEATURES Lockable enclosure (field upgradeable option)PRINT DNA Multiplatform Software Development Kit (SDK) Windows C#/.Net and Java Printer Software Development Kit (SDK) One SDK download supports Android, Java and Windows environments
+Easily build card-printing apps with complete control over print functionality from Windows, Linux, Mac OS and Android environments
+Enable card printing from Android mobile devices
+Incorporate encryption and host authentication
+Includes documentation and source code examples CardStudio Included with the printer, this simple-to-learn and feature-rich card??design software that makes it easy to design loyalty cards, gift cards,??ID cards and more. Print Touch With a single tap, you can use Android-based mobile devices to access??how-to and troubleshooting information to help keep printers up,??running and available. About Print DNA. Print DNA propels your Zebra Link-OS for Card??printers into a class of their own, providing Zebra-only software tools??that make life easier for everyone who touches your printers, from??printing to printer management and application development. ",2043,1116,Photo ID Systems / Zebra Systems,Zebra ZC100 Single-Sided Photo ID System,ZC100System,Zebra,ZC100System,"Standard
+ZC100System-Ethernet - Ethernet + $169.50
+ZC100System-ISO - ISO HiCo/LoCo Mag S/W Selectable + $226
+ZC100System-Ethernet-ISO - Ethernet, ISO HiCo/LoCo Mag S/W Selectable + $395.50
+",./product_images/ZC100System.jpg
